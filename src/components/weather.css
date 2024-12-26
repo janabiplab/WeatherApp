@@ -1,0 +1,134 @@
+.weather_container{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding:20px;
+    max-width:300px;
+    background-image: linear-gradient(45deg,#8007a8,#d461cb);
+    /* position: relative; */
+    
+}
+.web_name{
+    background-image: linear-gradient(45deg,#001f4d,#3385ff);
+    font-size: 25px;
+    text-align: center;
+    font-weight: 400;
+    color: rgb(238, 223, 223);
+    text-shadow: 2px 2px 2px rgb(14, 12, 12);
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.search_bar{
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+     background: transparent;
+    
+    
+}
+.search_image{
+    width: 22px;
+    height:22px;
+    border-radius:50%;
+    margin-left:10px;
+    cursor: pointer;
+}
+.input_city{
+    font-size:15px;
+    padding-left:10px;
+    border-radius: 10px;
+    border: none;
+    background-color:white;
+    font-weight: 450;
+    color:rgb(214, 27, 73);
+    padding-top:.5px;
+    padding-bottom:.5px;
+    outline: none;
+
+}
+.weather_image_container{
+
+    display:flex;
+    
+    justify-content: center;
+    background:transparent;
+}
+.weather_image{
+   
+    width:80px;
+    height:80px;
+    margin-top:40px;
+    background:transparent;
+    
+}
+.temp_city_container{
+    text-align: center;
+    background:transparent;
+    
+}
+.temparature{
+    font-size: 35px;
+    margin-top:10px;
+    font-weight: 400;
+    color:white;
+    background: transparent;
+    text-shadow: 2px 2px 2px black;
+
+}
+.city_name{
+    font-size: 18px;
+    font-weight: 400;
+    color:white;
+    background: transparent;
+    text-shadow: 2px 2px 2px black;
+}
+.bottom_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: transparent;
+    margin-top: 70px;
+}
+.data_container_1{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  background: transparent;
+}
+.data_container_2{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    background: transparent;
+    margin-left:15px;
+
+}
+.humidity_image,.wind_image{
+    width:37px;
+    height:37px;
+    
+    margin-right:5px;
+   
+    background: transparent;
+   
+    
+    
+
+}
+.humidity_data,.wind_data{
+    background: transparent;
+}
+.humidity,.wind_speed{
+    background: transparent;
+    font-size: 12px;
+    font-weight: 300px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+span{
+    background: transparent;
+    font-size: 12px;
+    font-weight: 300px;
+    color: rgb(241, 245, 237);
+    text-shadow: 2px 2px 2px black;
+}
