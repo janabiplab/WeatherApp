@@ -10,3 +10,7 @@ Using HTML, CSS,JavaScript,React it integrates with a weather API to provide acc
        |--weather
     |--App
     |--main
+
+
+###  Home page
+![Screenshot (32)](https://github.com/user-attachments/assets/68fefb3a-4f5e-45fb-9cec-e29a09f1917f)
